@@ -1,0 +1,5 @@
+*.txt
+*.xml
+*.iml
+/.idea/*.iml
+/.idea/*.xml
