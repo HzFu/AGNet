@@ -18,7 +18,7 @@ Train your model with:
 python main.py --data_path '../data/your_file_name'
 ```
 
-###Reference###
+##Reference##
 
 
 1. S. Zhang, H. Fu, Y. Yan, Y. Zhang, Q. Wu, M. Yang, M. Tan, Y. Xu, "Attention Guided Network for Retinal Image Segmentation," in MICCAI, 2019.
